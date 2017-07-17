@@ -11,7 +11,7 @@ $smtpServer = "dctmail.discovery.com"
 $from = "TechKnow_Action@discovery.com" #The "From" E-mail address that users will see
 $logging = "true"
 $logPath = "c:\logs"
-$testing = 
+$testing = True
 $domains = "int.dci.discovery.com",#"dna.dci.discovery.com","us.dci.discovery.com","dne.dci.discovery.com" #Domains that this script will run against
 $notificationdays = 15,10,5,4,3,2,1,0 #Days prior to expiration when users will be notified
 
